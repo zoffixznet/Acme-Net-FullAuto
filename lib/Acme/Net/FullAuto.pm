@@ -65,14 +65,11 @@ Acme::Net::FullAuto - A fully automated Net::FullAuto automation
 
 =for pod_spiffy start code section
 
-    #!/usr/bin/env perl
-
-    use strict;
-    use warnings;
+    use Acme::Net::FullAuto;
 
 =for pod_spiffy end code section
 
-You don't need to C<use> this module! IT'S B<FULL ALL AUTO!!> IT'S THE ANSWER!
+You don't need need anything else! IT'S B<FULL ALL AUTO!!> IT'S THE ANSWER!
 
 =head1 DESCRIPTION
 
@@ -83,7 +80,7 @@ C<Acme::Net::FullAuto> IS MOAR POWERFUL! It's B<MORE AUTO>, B<MORE FULL>,
 and if you're thinking whether it's B<MORE NET>... THE ANSWER IS B<YES>!
 
 This module released ITSELF! And will UPDATE ITSELF! And it automated ALL
-THE THINGS! Don't even C<use> this module! IT'S FULL AUTO!
+THE THINGS! Just C<use> this module! IT'S FULL AUTO!
 
 =head1 METHODS AND EXPORTS
 
