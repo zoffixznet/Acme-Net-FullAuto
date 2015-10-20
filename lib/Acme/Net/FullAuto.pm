@@ -3,6 +3,8 @@ package Acme::Net::FullAuto;
 use strict;
 use warnings;
 
+# VERSION
+
 sub import {
     die <<'END';
 
@@ -53,7 +55,7 @@ __END__
 
 =encoding utf8
 
-=for stopwords Znet Zoffix
+=for stopwords Znet Zoffix MOAR
 
 =head1 NAME
 
